@@ -41,4 +41,19 @@ fn main() {
             }
     }
   }
+
+  let a = [3; 5];
+  println!("the array is {},{},{},{},{}",a[0],a[1],a[2],a[3],a[4]);
+  let mut a: [i32; 5] = [1, 2, 3, 4, 5]; 
+  
+  print_array(&mut a);
+
+  print_array(&mut a);
 }
+
+
+fn print_array(x:&mut [i32]) {
+    println!("The value of array is: {:?}",x);
+    x[0] = 100;
+}
+
