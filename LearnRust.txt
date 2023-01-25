@@ -17,4 +17,10 @@ source "$HOME/.cargo/env"
 println!("Hello, world!");
 It is a little bit similar to Java's println, I actually prefer print, and the ";" is similar to C
 
+cargo new to create a new project
+cargo build to build the project
+cargo check to check if your project can compile
+cargo run to run the project
+
+
 
