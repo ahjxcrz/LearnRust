@@ -1,3 +1,5 @@
 Rust programming language is fundamentally about empowerment! It seems Rust is not just like C for the Operating system level! 
 
+introducing parallelism in Rust is a relatively low-risk operation: the compiler will catch the classical mistakes for you
+
 
