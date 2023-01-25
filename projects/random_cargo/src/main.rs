@@ -49,6 +49,9 @@ fn main() {
   print_array(&mut a);
 
   print_array(&mut a);
+
+  let result = array_plus1(&mut a);
+  println!("the result is {result}");
 }
 
 
@@ -56,4 +59,11 @@ fn print_array(x:&mut [i32]) {
     println!("The value of array is: {:?}",x);
     x[0] = 100;
 }
+
+fn array_plus1(x:&mut [i32])->i32 
+{
+   x[0]+=1;
+   return x[0];
+}
+
 
