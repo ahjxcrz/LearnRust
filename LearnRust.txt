@@ -4,3 +4,10 @@ introducing parallelism in Rust is a relatively low-risk operation: the compiler
 
 I like that in Rust, the compiler would catch all bugs for you, so you cannot compile, like the concurrency bugs
 
+Cargo is dependency manager and build tool!
+
+I didn't know Rust is also used in Bioinformatics!
+
+Speed and Stability - Rust!
+
+
