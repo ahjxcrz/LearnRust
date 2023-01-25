@@ -14,4 +14,7 @@ Installed Rust: curl --proto '=https' --tlsv1.3 https://sh.rustup.rs -sSf | sh
 To configure your current shell, run:
 source "$HOME/.cargo/env"
 
+println!("Hello, world!");
+It is a little bit similar to Java's println, I actually prefer print, and the ";" is similar to C
+
 
