@@ -1,0 +1,3 @@
+Rust programming language is fundamentally about empowerment! It seems Rust is not just like C for the Operating system level! 
+
+
