@@ -2,4 +2,5 @@ Rust programming language is fundamentally about empowerment! It seems Rust is n
 
 introducing parallelism in Rust is a relatively low-risk operation: the compiler will catch the classical mistakes for you
 
+I like that in Rust, the compiler would catch all bugs for you, so you cannot compile, like the concurrency bugs
 
