@@ -58,6 +58,21 @@ fn main() {
 fn print_array(x:&mut [i32]) {
     println!("The value of array is: {:?}",x);
     x[0] = 100;
+
+
+    for item in x
+    {
+       println!("Element: {item}");
+    }
+
+
+    //let mut aLEN = x.len() as i32;
+    //let arrayLEN:&usize = &x.len();
+    //println!("the length is {}",aLEN);
+    //for i in 0..aLEN
+    //{
+    //   println!("loop on ele: {}",i);
+    //}
 }
 
 fn array_plus1(x:&mut [i32])->i32 
