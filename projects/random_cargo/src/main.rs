@@ -9,7 +9,8 @@ fn main() {
     let secret_number = rand::thread_rng().gen_range(1..=100);
     let mut sec_s = String::new();
     sec_s = secret_number.to_string();
-    println!("the string is : {sec_s}");
+    
+    println!("\n========= keep this secret ==========\nthe string is : {sec_s}");
 
     println!("Hello, world!");
    
@@ -23,12 +24,21 @@ fn main() {
     println!("You guessed: {guess}");
     println!("The secret number is {secret_number}");
 
-    let guess: u32 = guess.trim().parse().expect("Please type a number!");
+    //let guess: u32 = guess.trim().parse().expect("Please type a number!");
+    let guess: u32 = match guess.trim().parse() 
+               {
+                  Ok(num) => num,
+                  Err(_) => continue,
+               };
 
     match guess.cmp(&secret_number) {
         Ordering::Less => println!("Too small!"),
         Ordering::Greater => println!("Too big!"),
-        Ordering::Equal => println!("You win!"),
+        Ordering::Equal => 
+            {
+                println!("You win!");
+                break;
+            }
     }
   }
 }
