@@ -22,5 +22,27 @@ cargo build to build the project
 cargo check to check if your project can compile
 cargo run to run the project
 
+cargo build --release to build and release the project
+
+a crate is a collection of Rust source code files
+
+There is a Cargo.lock file, it is used to keep the version of all dependencies, so you can always run the code without any issue, if you want to upgrade, use: cargo update
+
+We can just simply use loop for the loop in Rust! 
+parse method is used to convert the data type, like let guess: u32 = guess.trim().parse().expect("Please type a number!");  we will get u32 integer 
+
+I feel Ownership is new and unique for Rust 
+Each value in Rust has an owner.
+There can only be one owner at a time.
+When the owner goes out of scope, the value will be dropped.
+
+
+The struct reminds me the C language, haha
+
+Finished the first 5 chapters, maybe good enough for now, I will come back later on. 
+
+Now I will check:  
+https://docs.astar.network/docs/builder-guides/from-zero-to-ink-hero/
+
 
 
