@@ -1,0 +1,1 @@
+/Users/wenwang/Documents/ahjxcrz-github/LearnRust/tools/psp22/target/ink/release/metadata-gen: /Users/wenwang/Documents/ahjxcrz-github/LearnRust/tools/psp22/lib.rs /private/var/folders/n0/btk6mskx26j9yzy3q1c07r6w0000gn/T/cargo-contract_qcRl84/.ink/metadata_gen/main.rs

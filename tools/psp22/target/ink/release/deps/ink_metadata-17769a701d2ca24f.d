@@ -1,0 +1,11 @@
+/Users/wenwang/Documents/ahjxcrz-github/LearnRust/tools/psp22/target/ink/release/deps/ink_metadata-17769a701d2ca24f.rmeta: /Users/wenwang/.cargo/git/checkouts/ink-1add513eda8f5a89/4655a8b/crates/metadata/src/lib.rs /Users/wenwang/.cargo/git/checkouts/ink-1add513eda8f5a89/4655a8b/crates/metadata/src/layout/mod.rs /Users/wenwang/.cargo/git/checkouts/ink-1add513eda8f5a89/4655a8b/crates/metadata/src/layout/validate.rs /Users/wenwang/.cargo/git/checkouts/ink-1add513eda8f5a89/4655a8b/crates/metadata/src/specs.rs /Users/wenwang/.cargo/git/checkouts/ink-1add513eda8f5a89/4655a8b/crates/metadata/src/utils.rs
+
+/Users/wenwang/Documents/ahjxcrz-github/LearnRust/tools/psp22/target/ink/release/deps/libink_metadata-17769a701d2ca24f.rlib: /Users/wenwang/.cargo/git/checkouts/ink-1add513eda8f5a89/4655a8b/crates/metadata/src/lib.rs /Users/wenwang/.cargo/git/checkouts/ink-1add513eda8f5a89/4655a8b/crates/metadata/src/layout/mod.rs /Users/wenwang/.cargo/git/checkouts/ink-1add513eda8f5a89/4655a8b/crates/metadata/src/layout/validate.rs /Users/wenwang/.cargo/git/checkouts/ink-1add513eda8f5a89/4655a8b/crates/metadata/src/specs.rs /Users/wenwang/.cargo/git/checkouts/ink-1add513eda8f5a89/4655a8b/crates/metadata/src/utils.rs
+
+/Users/wenwang/Documents/ahjxcrz-github/LearnRust/tools/psp22/target/ink/release/deps/ink_metadata-17769a701d2ca24f.d: /Users/wenwang/.cargo/git/checkouts/ink-1add513eda8f5a89/4655a8b/crates/metadata/src/lib.rs /Users/wenwang/.cargo/git/checkouts/ink-1add513eda8f5a89/4655a8b/crates/metadata/src/layout/mod.rs /Users/wenwang/.cargo/git/checkouts/ink-1add513eda8f5a89/4655a8b/crates/metadata/src/layout/validate.rs /Users/wenwang/.cargo/git/checkouts/ink-1add513eda8f5a89/4655a8b/crates/metadata/src/specs.rs /Users/wenwang/.cargo/git/checkouts/ink-1add513eda8f5a89/4655a8b/crates/metadata/src/utils.rs
+
+/Users/wenwang/.cargo/git/checkouts/ink-1add513eda8f5a89/4655a8b/crates/metadata/src/lib.rs:
+/Users/wenwang/.cargo/git/checkouts/ink-1add513eda8f5a89/4655a8b/crates/metadata/src/layout/mod.rs:
+/Users/wenwang/.cargo/git/checkouts/ink-1add513eda8f5a89/4655a8b/crates/metadata/src/layout/validate.rs:
+/Users/wenwang/.cargo/git/checkouts/ink-1add513eda8f5a89/4655a8b/crates/metadata/src/specs.rs:
+/Users/wenwang/.cargo/git/checkouts/ink-1add513eda8f5a89/4655a8b/crates/metadata/src/utils.rs:

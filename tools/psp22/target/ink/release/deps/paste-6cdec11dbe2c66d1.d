@@ -1,0 +1,8 @@
+/Users/wenwang/Documents/ahjxcrz-github/LearnRust/tools/psp22/target/ink/release/deps/libpaste-6cdec11dbe2c66d1.dylib: /Users/wenwang/.cargo/registry/src/github.com-1ecc6299db9ec823/paste-1.0.11/src/lib.rs /Users/wenwang/.cargo/registry/src/github.com-1ecc6299db9ec823/paste-1.0.11/src/attr.rs /Users/wenwang/.cargo/registry/src/github.com-1ecc6299db9ec823/paste-1.0.11/src/error.rs /Users/wenwang/.cargo/registry/src/github.com-1ecc6299db9ec823/paste-1.0.11/src/segment.rs
+
+/Users/wenwang/Documents/ahjxcrz-github/LearnRust/tools/psp22/target/ink/release/deps/paste-6cdec11dbe2c66d1.d: /Users/wenwang/.cargo/registry/src/github.com-1ecc6299db9ec823/paste-1.0.11/src/lib.rs /Users/wenwang/.cargo/registry/src/github.com-1ecc6299db9ec823/paste-1.0.11/src/attr.rs /Users/wenwang/.cargo/registry/src/github.com-1ecc6299db9ec823/paste-1.0.11/src/error.rs /Users/wenwang/.cargo/registry/src/github.com-1ecc6299db9ec823/paste-1.0.11/src/segment.rs
+
+/Users/wenwang/.cargo/registry/src/github.com-1ecc6299db9ec823/paste-1.0.11/src/lib.rs:
+/Users/wenwang/.cargo/registry/src/github.com-1ecc6299db9ec823/paste-1.0.11/src/attr.rs:
+/Users/wenwang/.cargo/registry/src/github.com-1ecc6299db9ec823/paste-1.0.11/src/error.rs:
+/Users/wenwang/.cargo/registry/src/github.com-1ecc6299db9ec823/paste-1.0.11/src/segment.rs:

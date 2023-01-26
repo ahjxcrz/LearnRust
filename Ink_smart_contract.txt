@@ -1,0 +1,34 @@
+set up environment:
+
+rustup default stable
+rustup update
+rustup update nightly
+rustup target add wasm32-unknown-unknown --toolchain nightly
+
+I am using mac, so install brew first:
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+follow the tutorial and then install:
+brew install binaryen
+
+and then install another two dependencies: 
+cargo install cargo-dylint dylint-link
+
+The previous command failed, and I fix it by install:
+brew install openssl
+
+
+and then:
+cargo install cargo-contract --force --locked
+
+
+If you get error: 
+cargo +nightly contract build
+error: toolchain 'nightly-aarch64-apple-darwin' is not installed
+
+Use this to fix it:
+rustup toolchain install nightly
+cargo install cargo-contract --version 2.0.0-rc
+
+and the cargo lock file is not there, I used: rustup component add rust-src --toolchain nightly-aarch64-apple-darwin
+
+

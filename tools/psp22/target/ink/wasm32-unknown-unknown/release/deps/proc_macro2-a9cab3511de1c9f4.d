@@ -1,0 +1,11 @@
+/Users/wenwang/Documents/ahjxcrz-github/LearnRust/tools/psp22/target/ink/wasm32-unknown-unknown/release/deps/proc_macro2-a9cab3511de1c9f4.rmeta: /Users/wenwang/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.50/src/lib.rs /Users/wenwang/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.50/src/marker.rs /Users/wenwang/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.50/src/parse.rs /Users/wenwang/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.50/src/rcvec.rs /Users/wenwang/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.50/src/fallback.rs
+
+/Users/wenwang/Documents/ahjxcrz-github/LearnRust/tools/psp22/target/ink/wasm32-unknown-unknown/release/deps/libproc_macro2-a9cab3511de1c9f4.rlib: /Users/wenwang/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.50/src/lib.rs /Users/wenwang/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.50/src/marker.rs /Users/wenwang/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.50/src/parse.rs /Users/wenwang/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.50/src/rcvec.rs /Users/wenwang/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.50/src/fallback.rs
+
+/Users/wenwang/Documents/ahjxcrz-github/LearnRust/tools/psp22/target/ink/wasm32-unknown-unknown/release/deps/proc_macro2-a9cab3511de1c9f4.d: /Users/wenwang/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.50/src/lib.rs /Users/wenwang/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.50/src/marker.rs /Users/wenwang/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.50/src/parse.rs /Users/wenwang/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.50/src/rcvec.rs /Users/wenwang/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.50/src/fallback.rs
+
+/Users/wenwang/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.50/src/lib.rs:
+/Users/wenwang/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.50/src/marker.rs:
+/Users/wenwang/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.50/src/parse.rs:
+/Users/wenwang/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.50/src/rcvec.rs:
+/Users/wenwang/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.50/src/fallback.rs:
