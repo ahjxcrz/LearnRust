@@ -14,6 +14,11 @@ struct Rectangle {
 }
 
 
+use crate::garden::vegetables::Asparagus;
+
+pub mod garden;
+
+
 impl Rectangle {
     fn area(&self) -> u32 {
         self.width * self.height
@@ -58,5 +63,9 @@ fn main() {
    
    let rect3 = Rectangle::square(10);
    println!("Can rect1 hold rect3? {}", rect1.can_hold(&rect3));
+
+
+   let plant = Asparagus {}; 
+   println!("I'm growing {:?}!", plant);
 
 }
