@@ -45,4 +45,11 @@ Now I will check:
 https://docs.astar.network/docs/builder-guides/from-zero-to-ink-hero/
 
 
+enum and struct might need sometime to digest, the following concept might be useful:
+Packages: A Cargo feature that lets you build, test, and share crates
+Crates: A tree of modules that produces a library or executable
+Modules and use: Let you control the organization, scope, and privacy of paths
+Paths: A way of naming an item, such as a struct, function, or module
+
+chapter 7 about packages, crates and modules are quite useful! 
 
