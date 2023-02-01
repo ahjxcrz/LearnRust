@@ -32,3 +32,9 @@ cargo install cargo-contract --version 2.0.0-rc
 and the cargo lock file is not there, I used: rustup component add rust-src --toolchain nightly-aarch64-apple-darwin
 
 
+
+I am learning from : https://www.youtube.com/watch?v=8ij_lhFpJaI and https://github.com/AstarNetwork/ink-xvm-sdk
+
+This is also a great tutorial: https://www.crowdcast.io/c/astar-tech-talk-006-wasm-nfts
+
+

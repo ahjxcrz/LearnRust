@@ -9,5 +9,6 @@ might be useful: https://www.youtube.com/watch?v=I5OFGNVvzOc
 
 
 This might be helpful for interacting with contract, even though that is for Eth: https://www.youtube.com/watch?v=GPc0t0Swct0
+maybe make a DEX like: https://app.privadex.xyz/
 
 
